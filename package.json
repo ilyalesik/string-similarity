@@ -28,7 +28,8 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-jasmine": "^2.3.0",
-    "gulp-watch": "^4.3.6"
+    "gulp-watch": "^4.3.6",
+    "jasmine": "^2.6.0"
   },
   "dependencies": {
     "lodash": "^4.13.1"
